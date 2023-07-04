@@ -20,8 +20,7 @@ This project is a back-end database for an eCommerce platform. The application u
 To ensure the application's required libraries are installed, run 'npm i' in the command line. To seed the database, run 'npm run seed' in the command line. To kickoff the server, run "npm start" in the command line.
 
 ## Usage
-See the video for a demonstration of the app's functionality using Insomnia.
-[Untitled_ Jul 4, 2023 2_31 PM (1).webm](https://github.com/trhenderson303/ecommerce-back-end/assets/132783253/4cbb6c07-fc1e-4400-81d8-e9e03157072a)
+<iframe src="https://drive.google.com/file/d/1uKPiKhkutD4-KzJOWO_gQntWq6_Kvs7o/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## License
 MIT License
