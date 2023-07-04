@@ -3,16 +3,15 @@
 ## Description
 This project is a back-end database for an eCommerce platform. The application uses object-relational mapping (ORM) to organize data by category, product, and tag and includes routes to create, read, update and delete items from the dataset.
 
+## GitHub Repository
+https://github.com/trhenderson303/ecommerce-back-end
+
 ## Table of Contents
 [Installation](#installation)
 
 [Usage](#usage)
 
 [License](#license)
-
-[Credits](#credits)
-
-[Testing](#testing)
 
 [Contact](#contact)
 
