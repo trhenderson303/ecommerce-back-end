@@ -20,8 +20,7 @@ This project is a back-end database for an eCommerce platform. The application u
 To ensure the application's required libraries are installed, run 'npm i' in the command line. To seed the database, run 'npm run seed' in the command line. To kickoff the server, run "npm start" in the command line.
 
 ## Usage
-See the video for a demonstration of the application's functionality
-[Video](https://github.com/trhenderson303/ecommerce-back-end/assets/132783253/ddf61055-636f-4f86-b47a-080ae709be39)
+See the [video](https://github.com/trhenderson303/ecommerce-back-end/assets/132783253/ddf61055-636f-4f86-b47a-080ae709be39) for a demonstration of the application's functionality
 
 ## License
 MIT License
