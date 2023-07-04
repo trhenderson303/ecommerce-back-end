@@ -23,6 +23,7 @@ To ensure the application's required libraries are installed, run 'npm i' in the
 
 <img width="1440" alt="Screenshot 2023-07-04 at 3 19 22 PM" src="https://github.com/trhenderson303/ecommerce-back-end/assets/132783253/7dfcf524-6f2e-45ef-8da1-40f0f217747b">
 
+
 See the [walkthrough video](https://github.com/trhenderson303/ecommerce-back-end/assets/132783253/756c5290-de49-4a9e-8098-4bc1e0666784) for a demonstration of the application's functionality using Insomnia.
 
 
